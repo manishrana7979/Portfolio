@@ -6,3 +6,5 @@ Welcome to my portfolio repository! This project highlights my skills, experienc
 📂 Projects – A showcase of my key projects with links to repositories.
 🛠️ Skills – Technologies and tools I use, including Java, Python, React, Spring Boot, SQL, and more.
 📞 Contact – manishrana1036@gmail.com.
+
+![image](https://github.com/user-attachments/assets/9537175e-726a-4380-b09f-6fc69c39626b)
