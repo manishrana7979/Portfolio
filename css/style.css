@@ -321,7 +321,7 @@ button {
   padding: 0.2rem 0;
 }
 
-.btn,
+
 .arrow {
   background: rgb(245, 245, 245);
   color: #333;
@@ -429,8 +429,9 @@ button {
 }
 
 .btn:hover {
-  background: black;
+  background: rgb(236, 208, 208);
   border-color: black;
+  
 }
 
 .btn:hover a {
