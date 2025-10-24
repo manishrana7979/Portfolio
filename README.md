@@ -1,14 +1,41 @@
-🚀 My Portfolio – Showcasing My Work & Skills
-Welcome to my portfolio repository! This project highlights my skills, experience, and projects as a Software Developer. It is designed using HTML, CSS, JavaScript, and React, with a responsive and modern UI.
+# Day-92-Amazing-Portfolio-Website-Using-HTML-CSS-JS
 
-🔹 Features
-🖥️ About Me – A brief introduction and career summary.
-📂 Projects – A showcase of my key projects with links to repositories.
-🛠️ Skills – Technologies and tools I use, including Java, Python, React, Spring Boot, SQL, and more.
-📞 Contact – manishrana1036@gmail.com.
+Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 
-![image](https://github.com/user-attachments/assets/9537175e-726a-4380-b09f-6fc69c39626b)
-![image](https://github.com/user-attachments/assets/de4686f6-4f51-4572-9e0a-6f823fda3dc1)
-![image](https://github.com/user-attachments/assets/4c5ade91-d4e9-4fd1-89fd-65fa13d66713)
-![image](https://github.com/user-attachments/assets/5c2cc8d0-a8f5-4b33-bee7-08154b50334d)
-![image](https://github.com/user-attachments/assets/c41a7e01-6800-4fe5-8de9-5357d55b31e5)
+Live Demo - https://quantumcoding123.github.io/Day-92-Amazing-Portfolio-Website-Using-HTML-CSS-JS/
+
+# Join Us
+
+Instagram - https://www.instagram.com/quantumcoding123
+
+Telegram - https://t.me/QuantumCoding123
+
+Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
+
+GitHub-https://github.com/QuantumCoding123
+
+YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+
+With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
+
+Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
+
+# Output - 1
+![Screenshot (304)](https://github.com/user-attachments/assets/dd67f053-819d-4b40-b688-1d0ece5301cc)
+ 
+# Output - 2
+
+![Screenshot (305)](https://github.com/user-attachments/assets/f620b7f4-42fe-4bdc-9f46-00dc3d0ae532)
+
+# Output - 3
+
+![Screenshot (306)](https://github.com/user-attachments/assets/0b6b930a-62a8-482a-ba8f-74cf14a218ef)
+
+# Output - 4
+
+![Screenshot (307)](https://github.com/user-attachments/assets/e36cbb26-f184-4610-b10c-386d14fe97f6)
+
+# Output - 5
+
+![Screenshot (309)](https://github.com/user-attachments/assets/e5b5632e-1f0d-4290-8e5c-c0745ab217b7)
+
